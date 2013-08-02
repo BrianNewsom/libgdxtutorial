@@ -14,7 +14,6 @@ public class MainActivity extends AndroidApplication {
         //cfg.useGL20 = false;
         cfg.useAccelerometer = false;
         cfg.useCompass = false;
-        
         initialize(new MyGdxGame2(), cfg);
     }
 }
