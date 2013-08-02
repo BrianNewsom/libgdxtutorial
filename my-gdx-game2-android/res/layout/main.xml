@@ -4,4 +4,10 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/play_game"
+            android:id="@+id/play_btn"
+            android:layout_gravity="center"/>
 </LinearLayout>
